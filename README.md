@@ -7,4 +7,39 @@ Este projeto tem como objetivo o desenvolvimento e a implementação, em Python,
 
 # Execução do ransomware
  **Estado inicial dos arquivos:** apresentação dos arquivos antes da execução do sistema, contemplando a visualização por meio do gerenciador de arquivos do sistema operacional e do Terminal.
- ![Alt text](./passwd.png "Optional title")
+ 
+![Alt text](./1.png "Optional title")
+
+![Alt text](./2.png "Optional title")
+
+Conteúdo do arquivo **Littérature.txt** antes da aplicação da criptografia.
+
+![Alt text](./3.png "Optional title")
+
+**Visualização do processo de criptografia dos arquivos.**
+
+![Alt text](./4.png "Optional title")
+
+Apresentação dos arquivos após a execução do processo de *criptografia*, contemplando sua visualização tanto pelo **gerenciador de arquivos do sistema operacional** quanto pelo **Terminal**.
+
+![Alt text](./5.png "Optional title")
+
+![Alt text](./6.png "Optional title")
+
+Conteúdo do arquivo **Littérature.txt** depois da aplicação da criptografia.
+
+![Alt text](./7.png "Optional title")
+
+**Visualização do processo de descriptografia dos arquivos.**
+
+![Alt text](./8.png "Optional title")
+
+Apresentação dos arquivos após a execução do processo de *descriptografia*, contemplando sua visualização tanto pelo **gerenciador de arquivos do sistema operacional** quanto pelo **Terminal**, evidenciando que todos os arquivos retornaram ao seu **estado original**.
+
+![Alt text](./9.png "Optional title")
+
+![Alt text](./10.png "Optional title")
+
+Conteúdo do arquivo **Littérature.txt** voltou ao **estado inicial**.
+
+![Alt text](./11.png "Optional title")
